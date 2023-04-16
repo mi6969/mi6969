@@ -8,4 +8,4 @@
 mi6969/mi6969 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi i am a front end web developer. I know HTML5,CSS3,JavaScript, JQuery and Bootstrap. Any one is working in vue js project i am interested to learn . 
+Hi i am a front end web developer. I know HTML5,CSS3,JavaScript, JQuery and Bootstrap, ReactJS.
